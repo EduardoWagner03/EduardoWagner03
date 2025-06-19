@@ -1,10 +1,10 @@
-# 🤖👑 Eduardo Wagner
+# 🤖👑 Eduardo G. Wagner
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack focado em Frontend`**
 
-Olá! Sou Eduardo Gregório Wagner, desenvolvedor de 21 anos natural de Santa Catarina. Atualmente cursando o último ano de Engenharia de Software, minha jornada na programação começou pela curiosidade de entender como as tecnologias funcionam e como posso criar soluções que façam a diferença na vida das pessoas.
+Olá! Sou Eduardo Gregório Wagner, desenvolvedor de 21 anos natural do Paraná. Atualmente cursando o último ano de Engenharia de Software, minha jornada na programação começou pela curiosidade de entender como as tecnologias funcionam e como posso criar soluções que façam a diferença na vida das pessoas.
 
-Tenho experiência prática no desenvolvimento de sistemas completos, desde a concepção até a implementação, sempre focando em criar aplicações que resolvam problemas reais e agreguem valor aos usuários.
+Durante minha formação acadêmica, desenvolvi experiência prática criando sistemas completos do zero, aplicando conceitos teóricos em projetos reais que atendem necessidades de clínicas e instituições de ensino. Cada projeto é uma oportunidade de transformar conhecimento em soluções funcionais que realmente impactam a vida dos usuários.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EduardoWagner03&color=0077B5&style=flat-square&label=Visualizações+do+perfil" alt="Contador de visualizações" />
@@ -35,16 +35,17 @@ Tenho experiência prática no desenvolvimento de sistemas completos, desde a co
   <img alt="React" title="ReactJS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="React Native" title="React Native" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Node.js" title="Node.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" title="Express.js" width="40px" style="padding-right: 10px;" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img alt="Express" title="Express.js" width="40px" style="padding-right: 10px;" src="https://img.icons8.com/fluency/48/express-js.png" />
   <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="Firebase" title="Firebase" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" />
   <img alt="Electron" title="Electron.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
   <img alt="Google Cloud" title="Google Cloud Platform" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://img.icons8.com/fluency/48/github.png" />
   <img alt="Jira" title="Jira" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 </div>
+
 ---
 
 ### 🚀 Projetos Principais
@@ -52,15 +53,86 @@ Tenho experiência prática no desenvolvimento de sistemas completos, desde a co
 
 <div align="center">
 
-| 🏥 **FlowTime** | 🖨️ **TonerTrack** | 🌡️ **Thermal Tech** |
+| 🦶 **FlowTime** | 🖨️ **TonerTrack** | 🌡️ **Thermal Tech** |
 |:---:|:---:|:---:|
-| **Sistema de Gestão para Clínicas** | **Sistema de Gerenciamento de Impressoras** | **Sistema de Monitoramento IoT** |
+| **Sistema de Gestão para Podologia** | **Sistema de Gerenciamento de Impressoras** | **Sistema de Monitoramento IoT** |
 | ✅ **Finalizado** | 🔄 **Em desenvolvimento** | 🔄 **Em desenvolvimento** |
-| *Em uso em clínica* | *Para escola pública* | *Projeto IoT* |
-| • Interface responsiva com agendamentos<br/>• CRUD completo e relatórios em PDF<br/>• Aplicação Web e Desktop | • Dashboard com análise de consumo<br/>• API RESTful e relatórios dinâmicos<br/>• Interface desktop multiplataforma | • Dashboards interativos<br/>• Comunicação com dispositivos IoT<br/>• Arquitetura modular |
-| `HTML5` `CSS3` `JavaScript` `EJS`<br/>`Node.js` `Express.js` `Firebase` `Electron.js` | `JavaScript` `EJS` `Bootstrap` `Chart.js`<br/>`Node.js` `Express.js` `PostgreSQL` `Electron.js` | `JavaScript` `Chart.js` `Bootstrap`<br/>`Node.js` `Express.js` `PostgreSQL` `Firebase` |
+| *Em uso em clínica de podologia* | *Para instituições de ensino* | *Projeto IoT com CMMS* |
+| • Interface responsiva com PWA<br/>• Sistema completo de agendamentos<br/>• Geração de PDFs e assinaturas digitais<br/>• Aplicação Web e Desktop<br/>• Notificações push e sistema offline | • Dashboard analítico com gráficos<br/>• API RESTful e relatórios dinâmicos<br/>• Sistema de autenticação Firebase<br/>• Interface desktop multiplataforma<br/>• Upload de arquivos e alertas | • Dashboards IoT em tempo real<br/>• Comunicação MQTT e WebSockets<br/>• Sistema CMMS completo<br/>• Controle automatizado de salas<br/>• Arquitetura MVC e cache Redis |
 
 </div>
+
+### 📋 **Stack Tecnológica Detalhada**
+
+<details>
+<summary><strong>🦶 FlowTime - Sistema de Gestão para Podologia</strong></summary>
+
+**Frontend:**
+- `HTML5` `CSS3` `JavaScript ES6+` `EJS`
+- `Chart.js` `jQuery` `SweetAlert2` `Choices.js`
+- `Font Awesome` `Tippy.js` `html2pdf.js` `SignaturePad.js`
+
+**Backend:**
+- `Node.js` `Express.js` `Firebase Admin SDK`
+- `Multer` `Node-cron` `Web-push` `Moment-timezone`
+- `UUID` `Browser-image-compression` `Node-cache`
+
+**Banco de Dados:**
+- `Google Firestore` `Firebase Storage` `Firebase Authentication`
+
+**Recursos Avançados:**
+- `Progressive Web App (PWA)` `Service Workers` `Web Manifest`
+- `Electron.js` `Vite` `Local Storage` `WhatsApp API`
+
+</details>
+
+<details>
+<summary><strong>🖨️ TonerTrack - Sistema de Gerenciamento de Impressoras</strong></summary>
+
+**Frontend:**
+- `HTML5` `CSS3` `JavaScript ES6+` `EJS` `Bootstrap`
+- `Chart.js` `SweetAlert2` `Bootstrap Icons`
+
+**Backend:**
+- `Node.js` `Express.js` `Express Session` `Cookie Parser`
+- `Multer` `pg (PostgreSQL Driver)`
+
+**Banco de Dados:**
+- `PostgreSQL`
+
+**Autenticação & Storage:**
+- `Firebase Authentication` `Firebase Admin SDK` `Firebase Cloud Storage`
+
+**Desktop:**
+- `Electron.js` `Electron Builder` `Electron Updater`
+
+</details>
+
+<details>
+<summary><strong>🌡️ Thermal Tech - Sistema de Monitoramento IoT</strong></summary>
+
+**Frontend:**
+- `HTML5` `CSS3` `JavaScript ES6+` `Bootstrap 5` `EJS`
+- `Chart.js` `jQuery` `SweetAlert2` `Font Awesome`
+- `Bootstrap Icons` `Google Fonts` `Handlebars`
+
+**Backend:**
+- `Node.js` `Express.js` `PostgreSQL` `Express Session`
+- `JWT` `Multer` `Formidable` `Nodemailer` `Axios`
+
+**IoT & Comunicação:**
+- `MQTT` `Aedes` `WebSocket` `Socket.io` `Server-Sent Events`
+
+**Integrações:**
+- `Firebase (Auth, Storage, Realtime DB)` `Redis Cache`
+
+**Desktop:**
+- `Electron` `Electron Builder` `Electron Updater`
+
+**Arquitetura:**
+- `MVC Pattern` `API REST` `CMMS System`
+
+</details>
 
 ---
 
@@ -68,7 +140,6 @@ Tenho experiência prática no desenvolvimento de sistemas completos, desde a co
 
 - ⚛️ **ReactJS** - Desenvolvendo interfaces modernas e componentizadas
 - 📱 **React Native** - Criando aplicações mobile multiplataforma
-- 🚀 **Arquiteturas avançadas** - Padrões de projeto e clean code
 
 ---
 
@@ -77,7 +148,6 @@ Tenho experiência prática no desenvolvimento de sistemas completos, desde a co
 - 🔍 Buscando oportunidades como **Desenvolvedor Júnior** ou **Estágio** em desenvolvimento FullStack
 - 💡 Especializar-me em tecnologias modernas e metodologias ágeis
 - 🌍 Contribuir com projetos que gerem impacto positivo na sociedade
-- 📚 Expandir conhecimentos em cloud computing e DevOps
 
 ---
 
@@ -95,11 +165,14 @@ Entre em contato comigo para oportunidades ou colaborações!
 
 <table align="center">
 <tr>
-<td colspan="2" align="center">
-  
-<!-- Primeira linha: Stats principais e linguagens lado a lado -->
+<td align="center">
+
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoWagner03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoWagner03&layout=compact&langs_count=15&theme=tokyonight&locale=pt-br&hide_border=true&count_private=true&custom_title=Linguagens%20Mais%20Usadas&card_width=350&v=2" />
+
+</td>
+<td align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoWagner03&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&hide_border=true&include_all_commits=true&count_private=true&custom_title=Linguagens%20Mais%20Usadas" />
 
 </td>
 </tr>
