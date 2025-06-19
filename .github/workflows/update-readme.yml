@@ -1,0 +1,35 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Atualiza a cada 12 horas
+  workflow_dispatch:        # Permite execução manual
+  push:
+    branches: [ main ]      # Executa quando fizer push na main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Update README with GitHub Stats
+        run: |
+          echo "Atualizando estatísticas do GitHub..."
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN_STATS }}
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "📊 Update README stats"
+          git push
