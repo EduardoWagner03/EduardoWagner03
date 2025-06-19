@@ -146,7 +146,7 @@ Durante minha formação acadêmica, desenvolvi experiência prática criando si
 
 - 🔍 Buscando oportunidades como **Desenvolvedor Júnior** ou **Estágio** em desenvolvimento FullStack
 - 💡 Especializar-me em tecnologias modernas e metodologias ágeis
-- 🌍 Contribuir com projetos que gerem impacto positivo na sociedade
+- 🌍 Colaborar em projetos que atendam necessidades genuínas dos clientes, melhorem processos empresariais e gerem impacto social positivo
 
 ---
 
