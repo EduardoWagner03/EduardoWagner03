@@ -155,7 +155,7 @@ Durante minha formação acadêmica, desenvolvi experiência prática criando si
 
 Entre em contato comigo para oportunidades ou colaborações!
 
-- **📧 E-mail:** [eduardogwagner2003@gmail.com](mailto:eduardogwagner2003@gmail.com)
+- **📧 E-mail:** [eduardogwagner2003@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=eduardogwagner2003@gmail.com)
 - **💼 LinkedIn:** [Eduardo Gregório Wagner](https://www.linkedin.com/in/eduardo-greg%C3%B3rio-wagner-036ba92a9)
 - **📱 Instagram:** [@eduardogwagner](https://www.instagram.com/eduardogwagner/)
 ---
