@@ -54,7 +54,7 @@ Durante minha formação acadêmica, desenvolvi experiência prática criando si
 
 | 🦶 **FlowTime** | 🖨️ **TonerTrack** | 🌡️ **Thermal Tech** |
 |:---:|:---:|:---:|
-| **Sistema de Gestão para Podologia** | **Sistema de Gerenciamento de Impressoras** | **Sistema de Monitoramento IoT** |
+| **Sistema de Gestão para Podologia** | **Sistema de Gerenciamento de Impressoras** | **Sistema de Monitoramento de Ar-Condicionado IoT** |
 | ✅ **Finalizado** | 🔄 **Em desenvolvimento** | 🔄 **Em desenvolvimento** |
 | *Em uso em clínica de podologia* | *Para instituições de ensino* | *Projeto IoT com CMMS* |
 | • Interface responsiva com PWA<br/>• Sistema completo de agendamentos<br/>• Geração de PDFs e assinaturas digitais<br/>• Aplicação Web e Desktop<br/>• Notificações push e sistema offline | • Dashboard analítico com gráficos<br/>• API RESTful e relatórios dinâmicos<br/>• Sistema de autenticação Firebase<br/>• Interface desktop multiplataforma<br/>• Upload de arquivos e alertas | • Dashboards IoT em tempo real<br/>• Comunicação MQTT e WebSockets<br/>• Sistema CMMS completo<br/>• Controle automatizado de salas<br/>• Arquitetura MVC e cache Redis |
@@ -108,7 +108,7 @@ Durante minha formação acadêmica, desenvolvi experiência prática criando si
 </details>
 
 <details>
-<summary><strong>🌡️ Thermal Tech - Sistema de Monitoramento IoT</strong></summary>
+<summary><strong>🌡️ Thermal Tech - Sistema de Monitoramento de Ar-Condicionado IoT</strong></summary>
 
 **Frontend:**
 - `HTML5` `CSS3` `JavaScript ES6+` `Bootstrap 5` `EJS`
