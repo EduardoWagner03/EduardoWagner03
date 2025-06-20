@@ -1,6 +1,6 @@
 # 🤖👑 Eduardo G. Wagner
 
-**`Desenvolvedor FullStack focado em Frontend`**
+**`Desenvolvedor Full Stack Júnior | Focado em Frontend`**
 
 Olá! Sou Eduardo Gregório Wagner, desenvolvedor de 21 anos natural do Paraná. Atualmente cursando o último ano de Engenharia de Software, minha jornada na programação começou pela curiosidade de entender como as tecnologias funcionam e como posso criar soluções que façam a diferença na vida das pessoas.
 
