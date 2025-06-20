@@ -5,6 +5,7 @@
 Olá! Sou Eduardo Gregório Wagner, desenvolvedor de 21 anos natural do Paraná. Atualmente cursando o último ano de Engenharia de Software, minha jornada na programação começou pela curiosidade de entender como as tecnologias funcionam e como posso criar soluções que façam a diferença na vida das pessoas.
 
 Durante minha formação acadêmica, desenvolvi experiência prática criando sistemas completos do zero, aplicando conceitos teóricos em projetos reais que atendem necessidades de clínicas e instituições de ensino. Tenho experiência tanto em desenvolvimento individual quanto em trabalho colaborativo, utilizando Git para controle de versão, metodologias ágeis para organização de sprints e ferramentas como Jira para gestão eficiente de tarefas em equipe. Cada projeto é uma oportunidade de transformar conhecimento em soluções funcionais que realmente impactam a vida dos usuários.
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EduardoWagner03&color=0077B5&style=flat-square&label=Visualizações+do+perfil" alt="Contador de visualizações" />
 </p>
@@ -16,7 +17,7 @@ Durante minha formação acadêmica, desenvolvi experiência prática criando si
   <a href="https://github.com/EduardoWagner03/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/eduardo-greg%C3%B3rio-wagner-036ba92a9" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardowagner03" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -146,7 +147,7 @@ Durante minha formação acadêmica, desenvolvi experiência prática criando si
 
 - 🔍 Buscando oportunidades como **Desenvolvedor Júnior** ou **Estágio** em desenvolvimento FullStack
 - 💡 Especializar-me em tecnologias modernas e metodologias ágeis
-- 🌍 Colaborar em projetos que atendam necessidades genuínas dos clientes, melhorem processos empresariais e gerem impacto social positivo
+- 🌍 Contribuir com projetos que gerem impacto positivo na sociedade
 
 ---
 
@@ -155,8 +156,9 @@ Durante minha formação acadêmica, desenvolvi experiência prática criando si
 Entre em contato comigo para oportunidades ou colaborações!
 
 - **📧 E-mail:** [eduardogwagner2003@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=eduardogwagner2003@gmail.com)
-- **💼 LinkedIn:** [Eduardo Gregório Wagner](https://www.linkedin.com/in/eduardo-greg%C3%B3rio-wagner-036ba92a9)
+- **💼 LinkedIn:** [Eduardo Gregório Wagner](https://www.linkedin.com/in/eduardowagner03)
 - **📱 Instagram:** [@eduardogwagner](https://www.instagram.com/eduardogwagner/)
+
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -177,13 +179,11 @@ Entre em contato comigo para oportunidades ou colaborações!
 <tr>
 <td align="center">
 
-<!-- Segunda linha esquerda: Streak Stats -->
 <img width="100%" src="https://streak-stats.demolab.com/?user=EduardoWagner03&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true" alt="Streak Stats" />
 
 </td>
 <td align="center">
 
-<!-- Segunda linha direita: GitHub Troféus -->
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=EduardoWagner03&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
 
 </td>
@@ -191,7 +191,6 @@ Entre em contato comigo para oportunidades ou colaborações!
 <tr>
 <td colspan="2" align="center">
 
-<!-- Terceira linha: Gráfico de atividade (largura completa) -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoWagner03&theme=tokyo-night&hide_border=true&locale=pt&include_all_commits=true" alt="Contribution Graph" />
 
 </td>
@@ -201,5 +200,5 @@ Entre em contato comigo para oportunidades ou colaborações!
 ---
 
 <div align="center">
-  <i>💻 "Transformando ideias em código, código em soluções, soluções em impacto" 💻</i>
+  <i>"Transformando ideias em código, código em soluções, soluções em impacto"</i>
 </div>
