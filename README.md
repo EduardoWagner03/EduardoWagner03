@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack Júnior | Focado em Frontend`**
 
-Olá! Sou Eduardo Gregório Wagner, desenvolvedor de 21 anos natural do Paraná. Atualmente cursando o último ano de Engenharia de Software, minha jornada na programação começou pela curiosidade de entender como as tecnologias funcionam e como posso criar soluções que façam a diferença na vida das pessoas.
+Olá! Sou Eduardo Gregório Wagner, desenvolvedor de 22 anos natural do Paraná. Atualmente cursando o último ano de Engenharia de Software, minha jornada na programação começou pela curiosidade de entender como as tecnologias funcionam e como posso criar soluções que façam a diferença na vida das pessoas.
 
 Durante minha formação acadêmica, desenvolvi experiência prática criando sistemas completos do zero, aplicando conceitos teóricos em projetos reais que atendem necessidades de clínicas e instituições de ensino. Tenho experiência tanto em desenvolvimento individual quanto em trabalho colaborativo, utilizando Git para controle de versão, metodologias ágeis para organização de sprints e ferramentas como Jira para gestão eficiente de tarefas em equipe. Cada projeto é uma oportunidade de transformar conhecimento em soluções funcionais que realmente impactam a vida dos usuários.
 
