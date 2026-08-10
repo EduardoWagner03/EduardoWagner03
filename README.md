@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="COLOQUE_AQUI_O_LINK_DA_STREAMDEV" target="_blank">
+<a href="https://streamdev.dev.br/" target="_blank">
   <img src="https://img.shields.io/badge/StreamDev-S%C3%B3cio--fundador-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0B0E1A" alt="StreamDev" />
 </a>
 <a href="https://www.linkedin.com/in/eduardowagner03" target="_blank">
@@ -96,7 +96,7 @@ foco:        e-commerce, SaaS multi-tenant e sistemas de gestão
 
 ## 🚀 StreamDev
 
-Software house da qual sou **sócio-fundador e engenheiro de software**. Respondo pela arquitetura, pelo desenvolvimento full stack e pelas decisões técnicas dos produtos, do levantamento de requisitos até a operação em produção, com o Victor Bueno cuidando de back-end e infraestrutura.
+**[streamdev.dev.br](https://streamdev.dev.br/)** · software house da qual sou **sócio-fundador e engenheiro de software**. Respondo pela arquitetura, pelo desenvolvimento full stack e pelas decisões técnicas dos produtos, do levantamento de requisitos até a operação em produção, com o Victor Bueno cuidando de back-end e infraestrutura.
 
 > Os repositórios são **privados** por confidencialidade comercial.
 
