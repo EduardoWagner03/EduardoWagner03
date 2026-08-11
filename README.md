@@ -11,6 +11,9 @@
 <a href="https://streamdev.dev.br/" target="_blank">
   <img src="https://img.shields.io/badge/StreamDev-S%C3%B3cio--fundador-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0B0E1A" alt="StreamDev" />
 </a>
+<a href="https://eduardowagner.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visitar-22D3EE?style=for-the-badge&logo=safari&logoColor=0B0E1A&labelColor=0B0E1A" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/eduardowagner03" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E1A" alt="LinkedIn" />
 </a>
@@ -41,6 +44,7 @@ cargo:       Desenvolvedor Full Stack Pleno · Engenheiro de Software
 empresa:     StreamDev · sócio-fundador
 formacao:    Bacharel em Engenharia de Software · UGV · 2022-2025
 local:       Irineópolis, SC · Brasil
+portfolio:   eduardowagner.com.br
 foco:        e-commerce, SaaS multi-tenant e sistemas de gestão
 ```
 
