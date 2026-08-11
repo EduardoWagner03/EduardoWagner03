@@ -344,20 +344,11 @@ Levando para o mobile o que já construo em React e Next.js.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoWagner03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&bg_color=0B0E1A&title_color=22D3EE&icon_color=8B5CF6" />
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoWagner03&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0E1A&title_color=22D3EE&custom_title=Linguagens%20Mais%20Usadas" />
-
-<br /><br />
-
 <img width="49%" src="https://streak-stats.demolab.com/?user=EduardoWagner03&theme=tokyonight&hide_border=true&locale=pt-br&background=0B0E1A&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="Streak Stats" />
 
 <br /><br />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoWagner03&theme=tokyo-night&hide_border=true&locale=pt&include_all_commits=true&bg_color=0B0E1A&color=22D3EE&line=8B5CF6&point=ffffff" alt="Contribution Graph" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=EduardoWagner03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
