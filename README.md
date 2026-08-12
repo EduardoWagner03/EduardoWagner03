@@ -124,7 +124,7 @@ E-commerce especializado no mercado de tecnologia 3D: impressoras, filamentos e 
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ MenuDigital
+### 🍽️ SaaS de Cardápio Digital
 
 `🟡 Em desenvolvimento` · lojas em operação comercial
 
@@ -217,7 +217,7 @@ Landing page institucional para uma oficina de funilaria, pintura automotiva e e
 ## 📋 Stack detalhada por projeto
 
 <details>
-<summary><strong>🧊 Bloco3D — E-commerce de tecnologia 3D</strong></summary>
+<summary><strong>🧊 Bloco3D · E-commerce de tecnologia 3D</strong></summary>
 
 <br />
 
@@ -236,7 +236,7 @@ Landing page institucional para uma oficina de funilaria, pintura automotiva e e
 </details>
 
 <details>
-<summary><strong>🍽️ MenuDigital — SaaS multi-tenant para restaurantes</strong></summary>
+<summary><strong>🍽️ SaaS de Cardápio Digital · Multi-tenant para restaurantes</strong></summary>
 
 <br />
 
@@ -253,7 +253,7 @@ Landing page institucional para uma oficina de funilaria, pintura automotiva e e
 </details>
 
 <details>
-<summary><strong>🦶 FlowTime — Gestão para clínica de podologia</strong></summary>
+<summary><strong>🦶 FlowTime · Gestão para clínica de podologia</strong></summary>
 
 <br />
 
@@ -268,7 +268,7 @@ Landing page institucional para uma oficina de funilaria, pintura automotiva e e
 </details>
 
 <details>
-<summary><strong>🖨️ TonerTrack — Gestão de impressoras</strong></summary>
+<summary><strong>🖨️ TonerTrack · Gestão de impressoras</strong></summary>
 
 <br />
 
@@ -285,7 +285,7 @@ Landing page institucional para uma oficina de funilaria, pintura automotiva e e
 </details>
 
 <details>
-<summary><strong>🌡️ ThermalTech — Monitoramento IoT de ar-condicionado</strong></summary>
+<summary><strong>🌡️ ThermalTech · Monitoramento IoT de ar-condicionado</strong></summary>
 
 <br />
 
@@ -302,7 +302,7 @@ Landing page institucional para uma oficina de funilaria, pintura automotiva e e
 </details>
 
 <details>
-<summary><strong>🎨 Auto Pintura Luizinho — Landing page institucional</strong></summary>
+<summary><strong>🎨 Auto Pintura Luizinho · Landing page institucional</strong></summary>
 
 <br />
 
